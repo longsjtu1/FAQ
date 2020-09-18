@@ -12,3 +12,9 @@
 之后等待安装即可。
 
 ![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/5.png)
+
+安装完成后提示是否马上运行，这里可以直接运行，也可以不马上运行。
+
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/6.png)
+
+点击Next，
