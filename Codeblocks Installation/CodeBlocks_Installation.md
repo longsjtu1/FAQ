@@ -21,3 +21,7 @@
 
 ![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/7.png)
 ![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/8.png)
+
+## 第一次使用
+### 文件关联Codeblocks的提示
+第一次使用可能会出现是否要进行C++/C源文件关联Codeblocks的提示。
