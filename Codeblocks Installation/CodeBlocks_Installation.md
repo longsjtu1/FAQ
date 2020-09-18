@@ -25,3 +25,9 @@
 ## 第一次使用
 ### 文件关联Codeblocks的提示
 第一次使用可能会出现是否要进行C++/C源文件关联Codeblocks的提示。
+
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/9.png)
+
+建议初学者选择最后一项，全部关联。对其他IDE更熟悉的同学则可以根据自己的需求进行选择。
+
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/10.png)
