@@ -31,3 +31,17 @@
 建议初学者选择最后一项，全部关联。对其他IDE更熟悉的同学则可以根据自己的需求进行选择。
 
 ![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/10.png)
+
+### 新建一个C++项目
+
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-1.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-2.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-3.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-4.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-5.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-6.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-7.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-8.png)
+![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-9.png)
+
+
