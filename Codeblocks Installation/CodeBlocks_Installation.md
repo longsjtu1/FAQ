@@ -44,4 +44,4 @@
 ![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-8.png)
 ![image](https://github.com/longsjtu/FAQ/blob/Programming---ideas-and-methods/Codeblocks%20Installation/images/2-9.png)
 
-
+sd
